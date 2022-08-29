@@ -1,4 +1,4 @@
-# Genesis Generator
+# Genesis Block Generator
 A python script for creating the parameters required for a unique genesis block. SHA256/scrypt/X11/X13/X15.
 ## Please Read First
 I struggled using this program for about a week due to the poor "writeups". Many have cloned this but never added anything to it, and seeing how the original creator has not updated it in years, I wanted to do my best to help as many people as possible. The original "Tutorial" gives little information on how to use the program to generate your own merkle root, genesis block, etc and more just how to replicate other chains information. I have modified it to make it easier for the average person to understand.
